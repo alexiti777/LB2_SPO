@@ -1,0 +1,9 @@
+E:\Alex\Будущий програмист\LB2_SPO\LB2_SPO\bin\Debug\LB2_SPO.exe.config
+E:\Alex\Будущий програмист\LB2_SPO\LB2_SPO\bin\Debug\LB2_SPO.exe
+E:\Alex\Будущий програмист\LB2_SPO\LB2_SPO\bin\Debug\LB2_SPO.pdb
+E:\Alex\Будущий програмист\LB2_SPO\LB2_SPO\obj\Debug\LB2_SPO.csprojResolveAssemblyReference.cache
+E:\Alex\Будущий програмист\LB2_SPO\LB2_SPO\obj\Debug\LB2_SPO.Form1.resources
+E:\Alex\Будущий програмист\LB2_SPO\LB2_SPO\obj\Debug\LB2_SPO.Properties.Resources.resources
+E:\Alex\Будущий програмист\LB2_SPO\LB2_SPO\obj\Debug\LB2_SPO.csproj.GenerateResource.Cache
+E:\Alex\Будущий програмист\LB2_SPO\LB2_SPO\obj\Debug\LB2_SPO.exe
+E:\Alex\Будущий програмист\LB2_SPO\LB2_SPO\obj\Debug\LB2_SPO.pdb
